@@ -1,0 +1,3 @@
+ when clicked
+ move forward:turn right
+ when clicked twice move forward:explode
