@@ -1,3 +1,4 @@
  when clicked
  move forward:turn right
  when clicked twice move forward:explode
+ when clicked three times move forward:yell i love life
